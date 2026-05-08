@@ -1,2 +1,3 @@
 # Newgit
-this is my first git reporitiy
+this is my first git repository
+Author-sayeda hafsa
